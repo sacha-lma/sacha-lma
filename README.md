@@ -1,61 +1,135 @@
 <div align="center">
-<h1 align="center">Hi 👋, I'm Sacha Le Moign-Avalos !</h1>
-<h3 align="center">👨🏻‍🦱 About me</h3>
-<p align="center">
-    🌐 I’m Sacha Le Moign-Avalos, a 19-year-old French student passionate about technology.<br>
-    🎓 Currently pursuing my first year at Epitech (Class of 2030), where I’m diving deep into computer science and programming. <a href="https://epitech.eu"><img src="https://newsroom.ionis-group.com/wp-content/uploads/2023/09/EPI-LOGO-2023-QUADRI.png" alt="Epitech logo" width="50px"></a><br>
-    ✍️ I enjoy developing software and exploring new technologies.<br>
-    📄 Check out my CV here to learn more about my experience and projects.<a href="">here</a>
-</p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=800020&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile+%F0%9F%91%8B;Starting+my+journey+at+Epitech+%F0%9F%8E%93;C+programming+%F0%9F%92%BB;Exploring+Full-Stack+development+%F0%9F%8C%90;Diving+into+AI+and+Data+science+%F0%9F%A4%96;Curious+about+cybersecurity+%F0%9F%94%92;Always+coding,+always+growing+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=sacha-lma&color=4ECDC4&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/sacha-lma)
-[![GitHub Followers](https://img.shields.io/github/followers/sacha-lma?label=FOLLOWERS&style=for-the-badge&color=FF6B6B&logo=github)](https://github.com/sacha-lma?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/sacha-lma?label=TOTAL+STARS&style=for-the-badge&color=FFD93D&logo=github)](https://github.com/sacha-lma?tab=repositories)
-[![Epitech](https://img.shields.io/badge/EPITECH-STUDENT-45B7D1?style=for-the-badge&logo=studyverse)](https://www.epitech.eu/)
+# 👋 Hi, I'm Sacha Le Moign-Avalos
+
+### 🎓 Computer Science Student @ EPITECH · 💻 Aspiring Software Engineer
+
+<p>
+🇫🇷 French student passionate about <strong>low-level programming</strong>, <strong>systems architecture</strong>,<br>
+and exploring how technology works under the hood.
+</p>
+
+<a href="https://www.epitech.eu/">
+  <img src="https://newsroom.ionis-group.com/wp-content/uploads/2023/09/EPI-LOGO-2023-QUADRI.png" alt="Epitech logo" width="70">
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=800020&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;EPITECH+Student+%7C+Class+of+2030;C+Programming+%26+Systems+Expert;Exploring+Full-Stack+Development;Learning+AI%2C+Data+%26+Cybersecurity;Always+Learning.+Always+Building.+🚀" />
+
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=sacha-lma&style=for-the-badge&color=800020)](https://github.com/sacha-lma)
+[![Followers](https://img.shields.io/github/followers/sacha-lma?style=for-the-badge&color=FF6B6B&logo=github)](https://github.com/sacha-lma?tab=followers)
+[![Stars](https://img.shields.io/github/stars/sacha-lma?style=for-the-badge&color=FFD93D&logo=github)](https://github.com/sacha-lma?tab=repositories)
+[![Epitech](https://img.shields.io/badge/EPITECH-Class_of_2030-45B7D1?style=for-the-badge&logo=graduation-cap)](https://www.epitech.eu/)
 
 </div>
 
 ---
 
-## 🖥️ Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+## 🚀 About Me
+
+```typescript
+const sacha = {
+    location: "France 🇫🇷",
+    education: "EPITECH (Class of 2030)",
+    interests: ["Low-level Programming", "Systems Architecture", "Problem Solving"],
+    currentlyLearning: ["Full-Stack Development", "AI & Machine Learning", "Cybersecurity"],
+    philosophy: "Build it, break it, understand it, improve it",
+    
+    skills: {
+        systems: ["C", "Linux", "Shell Scripting"],
+        languages: ["C", "Python", "Shell"],
+        tools: ["Git", "CLion", "PyCharm", "GitKraken"],
+        softSkills: ["Problem Solving", "Critical Thinking", "Team Collaboration"]
+    }
+};
+```
+
+🎯 **Current Focus:**
+- 🔨 Building robust systems and applications from the ground up
+- 📚 Deepening my understanding of computer architecture and algorithms
+- 🌐 Exploring web development and modern tech stacks
+- 🤖 Diving into artificial intelligence and data science
+- 🔐 Learning cybersecurity fundamentals and best practices
 
 ---
 
-## 🛠️ Tools
+## 💻 Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 🛠️ Tools & Development Environment
+
+### IDEs & Editors
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Version Control & Collaboration
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 💻 Operating Systems
+
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📫 Contact Me
-![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) `sacha.le-moign-avalos@epitech.eu`  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Sacha](www.linkedin.com/in/sacha-lma)  
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) `Pochy_Derme`
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sacha-lma&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=800020&icon_color=800020&text_color=C9D1D9&count_private=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sacha-lma&theme=dracula&hide_border=true&background=0D1117&ring=800020&fire=800020&currStreakLabel=800020" alt="GitHub Streak Stats"/>
+</div>
+
+### 👨‍💻 Top Languages Used:
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sacha-lma&theme=nord_dark" alt="Repos Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sacha-lma&theme=nord_dark" alt="Most Commit Language"/>
+</div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📫 Contact & Connect
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sacha-lma&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0D1117&title_color=800020&icon_color=FF6B6B&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sacha-lma&layout=compact&langs_count=8&theme=dracula&border_radius=10&hide_border=true&bg_color=0D1117&title_color=800020&text_color=ffffff"/>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sacha.le-moign-avalos@epitech.eu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sacha-lma)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Pochy_Derme)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sacha-lma)
 
 </div>
 
 ---
 
-> "💡 Code is like humor. When you have to explain it, it’s bad." – Cory House
+<div align="center">
+
+### 💭 Quote of the Day
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+### ⚡ Fun Fact
+*I believe the best way to learn is by building—breaking things, fixing them, and understanding why they work!*
+
+<br>
+
+**Thanks for visiting! Feel free to explore my repositories and connect with me! 🚀**
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+</div>
