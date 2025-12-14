@@ -13,11 +13,6 @@ and exploring how technology works under the hood.
   <img src="https://newsroom.ionis-group.com/wp-content/uploads/2023/09/EPI-LOGO-2023-QUADRI.png" alt="Epitech logo" width="70">
 </a>
 
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=800020&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;EPITECH+Student+%7C+Class+of+2030;C+Programming+%26+Systems+Expert;Exploring+Full-Stack+Development;Learning+AI%2C+Data+%26+Cybersecurity;Always+Learning.+Always+Building.+🚀" />
-
-<br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sacha-lma&style=for-the-badge&color=800020)](https://github.com/sacha-lma)
 [![Followers](https://img.shields.io/github/followers/sacha-lma?style=for-the-badge&color=FF6B6B&logo=github)](https://github.com/sacha-lma?tab=followers)
