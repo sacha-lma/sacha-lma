@@ -91,13 +91,6 @@ const sacha = {
   <img src="https://camo.githubusercontent.com/dc7eab595e67258bb8a2e3625b765a540da1dc0c22c253f74c66e90c127db6bb/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d73616368612d6c6d61267468656d653d64726163756c6126686964655f626f726465723d74727565266261636b67726f756e643d3044313131372672696e673d38303030323026666972653d383030303230266375727253747265616b4c6162656c3d383030303230"/>
 </div>
 
-### 👨‍💻 Top Languages Used:
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sacha-lma&theme=nord_dark" alt="Repos Per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sacha-lma&theme=nord_dark" alt="Most Commit Language"/>
-</div>
-
 ---
 
 ## 📫 Contact & Connect
@@ -114,14 +107,6 @@ const sacha = {
 ---
 
 <div align="center">
-
-### 💭 Quote of the Day
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-### ⚡ Fun Fact
-*I believe the best way to learn is by building—breaking things, fixing them, and understanding why they work!*
-
-<br>
 
 **Thanks for visiting! Feel free to explore my repositories and connect with me! 🚀**
 
