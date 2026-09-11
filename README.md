@@ -2,7 +2,9 @@
 
 # 👋 Hi, I'm Sacha Le Moign-Avalos
 
-### 🎓 Computer Science Student @ EPITECH · 💻 Aspiring Software Engineer
+<a href="https://github.com/sacha-lma">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=800020&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+EPITECH+%F0%9F%8E%93;Aspiring+Software+Engineer+%F0%9F%92%BB;Low-level+programming+%26+systems+architecture+%E2%9A%99%EF%B8%8F;Build+it%2C+break+it%2C+understand+it%2C+improve+it" alt="Typing SVG" />
+</a>
 
 <p>
 🇫🇷 French student passionate about <strong>low-level programming</strong>, <strong>systems architecture</strong>,<br>
@@ -34,8 +36,8 @@ const sacha = {
     philosophy: "Build it, break it, understand it, improve it",
     
     skills: {
-        systems: ["C", "Linux", "Shell Scripting"],
-        languages: ["C", "Python", "Shell"],
+        systems: ["C", "C++", "Linux", "Shell Scripting"],
+        languages: ["C", "C++", "C#", "Python", "SQL", "Shell"],
         tools: ["Git", "CLion", "PyCharm", "GitKraken"],
         softSkills: ["Problem Solving", "Critical Thinking", "Team Collaboration"]
     }
@@ -55,7 +57,16 @@ const sacha = {
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & OS
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ---
 
@@ -66,7 +77,27 @@ const sacha = {
 </div>
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/dc7eab595e67258bb8a2e3625b765a540da1dc0c22c253f74c66e90c127db6bb/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d73616368612d6c6d61267468656d653d64726163756c6126686964655f626f726465723d74727565266261636b67726f756e643d3044313131372672696e673d38303030323026666972653d383030303230266375727253747265616b4c6162656c3d383030303230"/>
+  <img src="https://streak-stats.demolab.com/?user=sacha-lma&theme=dracula&hide_border=true&background=0D1117&ring=800020&fire=800020&currStreakLabel=800020"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sacha-lma&theme=dracula&no-frame=true&row=1&column=6&margin-w=8&margin-h=8"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sacha-lma/sacha-lma/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sacha-lma/sacha-lma/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/sacha-lma/sacha-lma/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
