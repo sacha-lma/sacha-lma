@@ -73,19 +73,7 @@ const sacha = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sacha-lma&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=800020&icon_color=800020&text_color=C9D1D9&count_private=true"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=sacha-lma&theme=dracula&hide_border=true&background=0D1117&ring=800020&fire=800020&currStreakLabel=800020"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sacha-lma&theme=dracula&no-frame=true&row=1&column=6&margin-w=8&margin-h=8"/>
 </div>
 
 ---
